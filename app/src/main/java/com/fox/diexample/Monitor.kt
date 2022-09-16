@@ -1,4 +1,6 @@
 package com.fox.diexample
 
-class Monitor {
+import javax.inject.Inject
+
+class Monitor @Inject constructor() {
 }

@@ -1,4 +1,7 @@
 package com.fox.diexample
 
-class Storage {
+import android.view.ViewDebug
+import javax.inject.Inject
+
+class Storage @Inject constructor() {
 }

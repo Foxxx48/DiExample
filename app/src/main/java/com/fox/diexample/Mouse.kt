@@ -1,4 +1,6 @@
 package com.fox.diexample
 
-class Mouse {
+import javax.inject.Inject
+
+class Mouse @Inject constructor() {
 }

@@ -1,4 +1,6 @@
 package com.fox.diexample
 
-class Processor {
+import javax.inject.Inject
+
+class Processor @Inject constructor(){
 }

@@ -1,4 +1,6 @@
 package com.fox.diexample
 
-class Keyboard {
+import javax.inject.Inject
+
+class Keyboard @Inject constructor() {
 }

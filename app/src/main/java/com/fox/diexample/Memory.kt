@@ -1,4 +1,6 @@
 package com.fox.diexample
 
-class Memory {
+import javax.inject.Inject
+
+class Memory @Inject constructor() {
 }
