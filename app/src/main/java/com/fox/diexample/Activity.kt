@@ -12,6 +12,8 @@ class Activity {
         DaggerMyComponent.create().inject(this)
     }
 
+
+
 //    val keyboard: Keyboard = DaggerMyComponent.create().getKeyboard()
 //
 //    val mouse: Mouse = DaggerMyComponent.create().getMouse()

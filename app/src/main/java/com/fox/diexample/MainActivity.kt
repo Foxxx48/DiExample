@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         binding.tv5.text = activity.computer.computerTower.memory.toString()
         binding.tv6.text = activity.computer.computerTower.storage.toString()
         binding.tv7.text = activity.computer.computerTower.processor.toString()
-        binding.tv8.text = "Computer"
+        binding.tv8.text = "ComputerTower"
 
     }
 }
